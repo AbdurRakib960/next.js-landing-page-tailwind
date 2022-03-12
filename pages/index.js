@@ -1,3 +1,4 @@
+import Features from "../components/Features";
 import Hero from "../components/Hero";
 import NavBar from "../components/NavBar";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <div className="font-Poppins">
       <NavBar />
       <Hero />
+      <Features />
     </div>
   )
 }
