@@ -1,3 +1,4 @@
+import Contact from "../components/Contact";
 import Download from "../components/Download";
 import FAQ from "../components/FAQ";
 import Features from "../components/Features";
@@ -12,6 +13,7 @@ const Home = () => {
       <Features />
       <Download />
       <FAQ />
+      <Contact />
     </div>
   )
 }
