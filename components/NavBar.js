@@ -15,7 +15,7 @@ const NavBar = () => {
                     <button type="button" className="bg-bookmark-red text-white rounded-md px-7 py-3">Login</button>
                 </ul>
                 <div className="flex sm:hidden flex-1 justify-end" >
-                    <Image src={MenuIcon} alt="hambarg icon" width="80" height="80" />
+                    <img src="https://img.icons8.com/ios-glyphs/30/000000/menu-rounded.png" />
                 </div>
             </nav>
         </header>
